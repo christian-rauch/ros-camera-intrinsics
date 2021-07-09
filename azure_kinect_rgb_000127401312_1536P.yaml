@@ -1,0 +1,20 @@
+image_width: 2048
+image_height: 1536
+camera_name: azure_kinect_rgb_000127401312_1536P
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [976.7181209217626, 0, 1024.005919704588, 0, 974.4912825427814, 776.2905650726608, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.07858104114499703, -0.03736010585324667, -0.0007755904182309155, -6.598872060519202e-05, 0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [1016.877685546875, 0, 1023.307625183399, 0, 0, 1013.913513183594, 774.0997355365107, 0, 0, 0, 1, 0]
