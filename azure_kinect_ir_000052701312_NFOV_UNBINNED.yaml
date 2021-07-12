@@ -1,0 +1,20 @@
+image_width: 640
+image_height: 576
+camera_name: azure_kinect_ir_000052701312_NFOV_UNBINNED
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [495.9028733393238, 0, 319.5822573697973, 0, 496.9746114762464, 342.2619090029193, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.3103539559538296, 0.1011089910216172, 0.001331086123476027, 0.0001878784380520032, 0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [423.9445495605469, 0, 319.1506318922529, 0, 0, 430.9244384765625, 356.8702938353817, 0, 0, 0, 1, 0]
